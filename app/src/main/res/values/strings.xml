@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">Stack Overflow Client</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Stack Overflow Client</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+    <string name="login">Login to Stack Overflow</string>
+    <string name="skip_login">Skip Login</string>
+    <string name="Login_to_account">Stack Overflow Account Login</string>
+    <string name="alert_title">Stack Overflow Client</string>
+    <string name="network_error">Kindly switch on WiFI or Mobile data  to proceed.</string>
+    <string name="positive_btn_text">Yes</string>
+    <string name="neutral_btn_text">OK</string>
+    <string name="bundle_key">DATA_BUNDLE</string>
+
+    <string name="login_to_stackoverflow">Login to Stack Overflow</string>
+
+    <string name="logout_msg">Do you want to logout?</string>
+    <string name="negative_btn_text">Cancel</string>
+    <string name="error_msg_401">Access Token is missing. Please try again.</string>
+
+    <string name="exit_msg">Are you sure you want to exit the app?</string>
+</resources>
